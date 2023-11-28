@@ -31,7 +31,7 @@ Dr. Abadía has received several international recognitions, including the 2016 
 
 ## Connect with Me
 
-[![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://cardiff.academia.edu/Nicol%C3%A1sAbad%C3%ADa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/nicol%C3%A1s-abad%C3%ADa-9032a422a) [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Nicolas-Abadia) [![ORCID](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-7355-4245)
+[![Academia.edu Profile](https://img.shields.io/badge/Academia.edu-Profile-blue)](https://cardiff.academia.edu/Nicol%C3%A1sAbad%C3%ADa) [![Follow me on GitHub](https://img.shields.io/github/followers/nabadia?label=Follow&style=social)](https://github.com/nabadia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/nicol%C3%A1s-abad%C3%ADa-9032a422a) [![ResearchGate Profile](https://img.shields.io/badge/ResearchGate-Profile-blue)](https://www.researchgate.net/profile/Nicolas-Abadia) [![ORCID](https://img.shields.io/badge/ORCID-iD-green)](https://orcid.org/0000-0002-7355-4245)
 
 ## Contact Information
 
@@ -40,5 +40,3 @@ Dr. Nicolás Abadía: abadian@cardiff.ac.uk
 Feel free to explore the repositories for more details about each publication and associated resources. If you find my work useful, consider citing the relevant publications.
 
 Thank you for your interest in my research!
-
-[![Follow me on GitHub](https://img.shields.io/github/followers/your-nabadia?label=Follow&style=social)]([link-to-github](https://github.com/nabadia)https://github.com/nabadia)
